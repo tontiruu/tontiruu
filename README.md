@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=git,html,js,fastapi,sqlite,css,ts,bootstrap,react,next,notion,github,flask,opencv,sklearn,electron,figma,materialui,ruby" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,git,html,js,fastapi,sqlite,css,ts,bootstrap,react,next,notion,github,flask,opencv,sklearn,electron,figma,materialui" />
 <br>
 
 ## 🏃‍♀️ Activities
